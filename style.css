@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+@media screen and (max-width:700px) {
+    .button-nav{
+        display: none !important;
+    }
+
+    .nav-img{
+        margin-left: 0px !important;
+    }
+    .text-img{
+        width: 110px;
+    }
+    .text-one p{
+        margin-top: -10px;
+    }
+   .text-one h1{
+    font-size: 6vw !important;
+   }
+   .hello{
+    display: block !important;
+   }
+   .up h1{
+    margin-left: -50px !important;
+   }
+   .up p{
+    margin-left:-18px !important;
+    font-size: 14px !important;
+   }
+
+   .down{
+    margin-left: -20px !important;
+   }
+   
+   
+   .d-right img{
+    width: 180px !important;
+    background-color: rgb(255, 255, 255) !important;
+    margin-top: 50px !important;
+    margin-left: -40px !important;
+   }
+   .temp-two{
+    display: block !important;
+   }
+   .hii img{
+    width: 220px !important;
+   }
+   .hii-one{
+    margin-left: -100px !important;
+   }
+   .sale-two{
+    display: block !important;
+   }
+   .hii-four{
+    margin-left: -100px !important;
+    margin-top: 20px !important;
+   }
+   .sale-three{
+    display: block !important;
+   }
+.hii-six img{
+    width: 200px !important;
+}
+.pamplate-one{
+    display: block !important;
+}
+.p-two{
+    margin-left: -120px !important;
+    margin-top: 20px !important;
+}
+.p-two button{
+    margin-left: -40px !important;
+}
+.review-four{
+    display: none !important;
+}
+.review-one{
+    margin-left: -20px;
+}
+.design img{
+   height: 30px !important;
+}
+
+
+}
